@@ -1,0 +1,13 @@
+detections {
+  bounding_box {
+    origin_x: 288
+    origin_y: 145
+    width: 278
+    height: 284
+  }
+  classes {
+    index: 46
+    score: 0.73828125
+    class_name: "cup"
+  }
+}
